@@ -20,4 +20,4 @@ Once you have everything installed from this directory (examples/backend) run:
   
 ### Notes
 
-!!! Todo's are stored in memory! AKA if you restart the rack application you will loose you're todos. This is really just a demonstration. If you really want to use this, check the [cloudkit](http://getcloudkit.com) docs to see how to set cloudkit up to store info in Tokyo Cabinent.
+!!! Todos are stored in memory! AKA if you restart the rack application you will lose your todos. This is really just a demonstration. If you really want to use this, check the [cloudkit](http://getcloudkit.com) docs to see how to set cloudkit up to store info in Tokyo Cabinent.
